@@ -1,0 +1,28 @@
+name: The Green Machine
+favicon: null
+layout_spectrum: 0.49880902701988816
+typography_spectrum: 0.5963496982585639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1328807696700096
+  lightness: 0.16439809557050467
+  saturation: 0.8064170002471656
+  rhythmicContrast: 0.607611441751942
+purpose: []
